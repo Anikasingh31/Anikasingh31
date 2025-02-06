@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anika</h1>
-<h3 align="center">Passionate about Artificial Intelligence and Machine Learning</h3>
+<h1 align="center">Hi, I'm Anika</h1>
+<h3 align="center"> I'm Passionate about Artificial Intelligence and Machine Learning</h3>
 
 <div align="center">
     <img 
